@@ -1,5 +1,4 @@
 <?php
-// composer require lcobucci/jwt
 
 require "vendor/autoload.php";
 
